@@ -114,6 +114,9 @@ venv.bak/
 .spyderproject
 .spyproject
 
+# VSCode folders
+.vscode/*.*
+
 # Rope project settings
 .ropeproject
 
@@ -127,3 +130,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data
+data/*.*
+
+.idea/*.*
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/semantic-role-labeling.iml
+.idea/sonarlint/
+.idea/vcs.xml
+.idea/dictionaries/
